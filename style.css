@@ -1,0 +1,92 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+  }
+  
+  .contenedor{
+      background-color:rgb(177, 175, 174);
+      text-align: center;
+      width:500px;
+      height:600px;
+      margin:200px;
+  }
+  h1{
+      color:black;
+      font-size:25px;
+      padding-top: 15px; 
+     
+  }
+  
+  .input{
+      /* border:solid 2px green; */
+      height:auto;
+      margin-top:30px;
+      padding-top:15px;
+  }
+  .input1{
+      padding:20px;*{
+        margin:0;
+        padding:0;
+        box-sizing:border-box;
+      }
+      
+      .contenedor{
+          background-color:rgb(177, 175, 174);
+          text-align: center;
+          width:500px;
+          height:600px;
+          margin:200px;
+      }
+      h1{
+          color:black;
+          font-size:25px;
+          padding-top: 15px; 
+         
+      }
+      
+      .input{
+          /* border:solid 2px green; */
+          height:auto;
+          margin-top:30px;
+          padding-top:15px;
+      }
+      .input1{
+          padding:20px;
+      }
+      .input2{
+          margin-top: 20px;
+      }
+      #boton{
+          background-color: aqua;
+          border-radius: 20px;
+          margin-top: 20px;
+          height:40px;
+          width:70px;
+      }
+      .vertical{
+          border: solid 2px rgb(129, 6, 27);
+          border-radius:20px;
+          transform: rotate(0deg);
+          width:50px;
+          height:250px;
+          margin-left: 50px;
+      }
+      
+  }
+  #boton{
+      background-color: aqua;
+      border-radius: 20px;
+      margin-top: 20px;
+      height:40px;
+      width:70px;
+  }
+  .vertical{
+      border: solid 2px rgb(129, 6, 27);
+      border-radius:20px;
+      transform: rotate(0deg);
+      width:50px;
+      height:250px;
+      margin-left: 50px;
+  }
+  
